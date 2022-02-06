@@ -40,7 +40,7 @@
     "url": "https://calidad.incafact.com",
     "icon": "https://favicons.githubusercontent.com/calidad.incafact.com",
     "slug": "incafact-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   },
   {
     "name": "incafact prod",
