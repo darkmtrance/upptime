@@ -4,7 +4,7 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 105,
     "timeMonth": 100,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "opticas salome",
@@ -45,11 +47,11 @@
     "icon": "https://favicons.githubusercontent.com/calidad.incafact.com",
     "slug": "incafact-qa",
     "status": "up",
-    "uptime": "96.51%",
+    "uptime": "96.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.16%",
-    "uptimeYear": "96.51%",
+    "uptimeYear": "96.55%",
     "time": 317,
     "timeDay": 97,
     "timeWeek": 318,
