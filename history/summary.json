@@ -24,10 +24,10 @@
     "url": "https://opticasalome.tdolentes.com",
     "icon": "https://favicons.githubusercontent.com/opticasalome.tdolentes.com",
     "slug": "opticas-salome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 534,
@@ -36,6 +36,7 @@
     "timeMonth": 474,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2022-06-14": 1,
       "2022-03-03": 38,
       "2022-02-27": 19,
       "2022-02-20": 122
@@ -70,7 +71,7 @@
     "url": "https://empresa.incafact.com",
     "icon": "https://favicons.githubusercontent.com/empresa.incafact.com",
     "slug": "incafact-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,6 +82,8 @@
     "timeWeek": 203,
     "timeMonth": 214,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-14": 0
+    }
   }
 ]
