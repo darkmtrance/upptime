@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 189,
+    "timeDay": 185,
     "timeWeek": 160,
     "timeMonth": 122,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2024-03-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "opticas salome",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 283,
-    "timeWeek": 394,
-    "timeMonth": 433,
-    "timeYear": 428,
+    "time": 450,
+    "timeDay": 250,
+    "timeWeek": 339,
+    "timeMonth": 432,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.59%",
     "time": 264,
-    "timeDay": 88,
-    "timeWeek": 218,
-    "timeMonth": 259,
+    "timeDay": 186,
+    "timeWeek": 193,
+    "timeMonth": 262,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2023-10-29": 21,
@@ -92,9 +90,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 146,
-    "timeWeek": 157,
+    "time": 214,
+    "timeDay": 120,
+    "timeWeek": 152,
     "timeMonth": 199,
     "timeYear": 209,
     "dailyMinutesDown": {}
