@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 70,
-    "timeWeek": 119,
+    "timeDay": 81,
+    "timeWeek": 118,
     "timeMonth": 111,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 350,
-    "timeWeek": 365,
-    "timeMonth": 433,
+    "time": 449,
+    "timeDay": 234,
+    "timeWeek": 359,
+    "timeMonth": 431,
     "timeYear": 426,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/calidad.incafact.com.ico",
     "slug": "incafact-qa",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.59%",
     "time": 264,
-    "timeDay": 226,
-    "timeWeek": 225,
-    "timeMonth": 265,
+    "timeDay": 162,
+    "timeWeek": 234,
+    "timeMonth": 266,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2023-10-29": 21,
@@ -74,8 +74,7 @@
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
-      "2023-03-25": 1440,
-      "2023-03-24": 1440
+      "2023-03-25": 1440
     }
   },
   {
@@ -90,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 175,
-    "timeWeek": 165,
-    "timeMonth": 200,
+    "timeDay": 144,
+    "timeWeek": 167,
+    "timeMonth": 198,
     "timeYear": 208,
     "dailyMinutesDown": {}
   }
