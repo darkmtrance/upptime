@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 76,
-    "timeWeek": 104,
-    "timeMonth": 99,
+    "timeDay": 201,
+    "timeWeek": 103,
+    "timeMonth": 103,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 43
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 417,
-    "timeDay": 351,
-    "timeWeek": 481,
-    "timeMonth": 456,
-    "timeYear": 408,
+    "timeDay": 365,
+    "timeWeek": 477,
+    "timeMonth": 448,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2024-06-07": 302
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/calidad.incafact.com.ico",
     "slug": "incafact-qa",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 254,
-    "timeDay": 118,
-    "timeWeek": 295,
-    "timeMonth": 276,
+    "timeDay": 227,
+    "timeWeek": 302,
+    "timeMonth": 270,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2024-06-07": 301,
@@ -72,10 +72,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 171,
-    "timeWeek": 222,
-    "timeMonth": 216,
+    "time": 200,
+    "timeDay": 140,
+    "timeWeek": 215,
+    "timeMonth": 210,
     "timeYear": 198,
     "dailyMinutesDown": {}
   }
