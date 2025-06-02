@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 114,
-    "timeWeek": 111,
-    "timeMonth": 110,
-    "timeYear": 111,
+    "timeDay": 83,
+    "timeWeek": 108,
+    "timeMonth": 109,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2025-04-25": 16
     }
@@ -26,17 +26,16 @@
     "slug": "opticas-salome",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
-    "time": 451,
-    "timeDay": 528,
-    "timeWeek": 453,
-    "timeMonth": 476,
-    "timeYear": 475,
+    "time": 450,
+    "timeDay": 532,
+    "timeWeek": 424,
+    "timeMonth": 479,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-06-01": 12,
       "2025-05-15": 103,
       "2024-06-07": 302
     }
@@ -53,10 +52,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.92%",
     "time": 243,
-    "timeDay": 173,
-    "timeWeek": 205,
-    "timeMonth": 244,
-    "timeYear": 249,
+    "timeDay": 107,
+    "timeWeek": 161,
+    "timeMonth": 240,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-05-15": 103,
       "2024-06-07": 301
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 196,
-    "timeWeek": 192,
-    "timeMonth": 229,
+    "timeDay": 92,
+    "timeWeek": 169,
+    "timeMonth": 223,
     "timeYear": 211,
     "dailyMinutesDown": {}
   }
